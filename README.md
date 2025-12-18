@@ -1,9 +1,37 @@
-<h1 align="center">Boas Sou o Quim</h1>
-<h3 align="center">📖Estou a estudar na Uminho</h3>
+<div align="center">
+  <h1>Boas, sou o Quim! 👋</h1>
+  <h3>Estudante na Universidade do Minho 🎓</h3>
+</div>
 
+---
 
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,matlab,python,ps&theme=dark" />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quimsimao2k5&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+<table align="center" style="border: none;">
+  <tr>
+    <td width="50%" valign="top" style="border: none;">
+      <h3>🚀 Sobre mim</h3>
+      <ul>
+        <li>🔭 Atualmente a focar-me em <b>Java</b> e <b>C</b>.</li>
+        <li>📚 A estudar Engenharia Informática (suponho?) na UMinho.</li>
+        <li>⚡ <b>Facto:</b> Prefiro backend a frontend.</li>
+      </ul>
+      <br/>
+      <h3>📫 Contacto</h3>
+      <a href="LINK_DO_TEU_LINKEDIN">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td width="50%" valign="top" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quimsimao2k5&layout=compact&hide=jupyter%20notebook,html,css,tex&theme=dracula&langs_count=6" alt="Top Langs" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api?username=quimsimao2k5&show_icons=true&theme=dracula&hide_border=true" alt="Stats" />
+    </td>
+  </tr>
+</table>
