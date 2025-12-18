@@ -20,6 +20,7 @@
         <ul>
           <li>🎓 Estudante do 3º ano de <b>Ciências da Computação</b> na UMinho.</li>
           <li>🧑🏼‍💻 Foco em <b>Backend</b>, com preferência por Python e Java.</li>
+          <li>🧠 Atualmente, a área que mais me fascina é o Processamento de Linguagens.</li>
           <li>🎨 Entusiasta de design e edição de imagem/vídeo nos tempos livres.</li>
           <li>🌳 Fora do teclado, gosto de caminhadas e atividades ao ar livre.</li>
         </ul>
