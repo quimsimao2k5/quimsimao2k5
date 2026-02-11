@@ -34,9 +34,7 @@
       </a>
     </td>
     <td width="50%" valign="top" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quimsimao2k5&layout=compact&hide=jupyter%20notebook,html,css,tex&theme=dracula&langs_count=6" alt="Top Langs" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api?username=quimsimao2k5&show_icons=true&theme=dracula&hide_border=true" alt="Stats" />
+      <img src="https://github.com/quimsimao2k5/quimsimao2k5/blob/main/github-metrics.svg?raw=true" alt="Metrics" width="100%" />
     </td>
   </tr>
 </table>
