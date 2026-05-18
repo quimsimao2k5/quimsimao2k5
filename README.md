@@ -20,7 +20,7 @@
         <ul>
           <li>🎓 Estudante do 3º ano de <b>Ciências da Computação</b> na UMinho.</li>
           <li>🧑🏼‍💻 Foco em <b>Backend</b>, com preferência por Python e Java.</li>
-          <li>🧠 Atualmente, a área que mais me fascina é o Processamento de Linguagens.</li>
+          <li>🧠 Atualmente, as áreas que mais me fascinam são o Processamento de Linguagens e Criptografia.</li>
           <li>🎨 Entusiasta de design e edição de imagem/vídeo nos tempos livres.</li>
           <li>🌳 Fora do teclado, gosto de caminhadas e atividades ao ar livre.</li>
         </ul>
@@ -38,3 +38,21 @@
     </td>
   </tr>
 </table>
+
+---
+
+🚧🚧 Ainda não tive tempo de pôr isto direito....
+
+## 🗂️ Projetos da Licenciatura
+
+| Ano | Projeto | Descrição | Tecnologias |
+|:---:|---------|-----------|:-----------:|
+| 1º | [Laboratórios de Algoritmia I](https://github.com/quimsimao2k5/1ano2semestre/tree/main/LA1) | Breve descrição do que faz | ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) |
+| 2º | [Sistemas Operativos](link) | Breve descrição do que faz | ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) |
+| 2º | [Programação Orientada aos Objetos]() | | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)|
+| 3º | [Lógica Computacional]() | 4 Trabalhos Práticos | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+| 3º | [Processamento de Linguagens e Compiladores]() | Compilador para Pascal ISO 7185 | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
+| 3º | [Programação Concorrente](link) | Breve descrição do que faz | ![Erlang](https://img.shields.io/badge/Erlang-A90533?style=for-the-badge&logo=erlang&logoColor=white) |
+| 3º | [Base de Dados](link) | Sistema de Base de Dados para uma empresa de Hyrox | ![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
+| 3º | [Otimização](link) | | ![Matlab](https://img.shields.io/badge/Matlab-%23D94C1A?style=for-the-badge&logo=matlab&logoColor=white) |
+| 3º | [Criptografia]() | | ![SageMath](https://img.shields.io/badge/SageMath-%233333FF?style=for-the-badge&logo=sagemath&logoColor=white) |
