@@ -41,8 +41,6 @@
 
 ---
 
-🚧🚧 Ainda não tive tempo de pôr isto direito....
-
 ## 🗂️ Projetos da Licenciatura
 
 | Ano | Projeto | Descrição | Tecnologias |
