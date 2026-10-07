@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,r,html,css,vscode,md,idea&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,vue,r,js&theme=dark" />
   </a>
 </div>
 
@@ -18,7 +18,7 @@
     <td width="50%" valign="top" style="border: none;">
      <h3>🫡 Sobre mim</h3>
         <ul>
-          <li>🎓 Estudante do 3º ano de <b>Ciências da Computação</b> na UMinho.</li>
+          <li>🎓 Licenciado em Ciências da Computação. Estudante do 1º ano do Mestrado em <b>Engenharia Informática</b> na UMinho.</li>
           <li>🧑🏼‍💻 Foco em <b>Backend</b>, com preferência por Python e Java.</li>
           <li>🧠 Atualmente, as áreas que mais me fascinam são o Processamento de Linguagens e Criptografia.</li>
           <li>🎨 Entusiasta de design e edição de imagem/vídeo nos tempos livres.</li>
