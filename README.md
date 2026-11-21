@@ -19,8 +19,8 @@
      <h3>🫡 Sobre mim</h3>
         <ul>
           <li>🎓 Licenciado em Ciências da Computação. Estudante do 1º ano do Mestrado em <b>Engenharia Informática</b> na UMinho.</li>
-          <li>🧑🏼‍💻 Foco em <b>Backend</b>, com preferência por Python e Java.</li>
-          <li>🧠 Atualmente, as áreas que mais me fascinam são o Processamento de Linguagens e Criptografia.</li>
+          <li>🧑🏼‍💻 Foco em <b>Backend</b>, com preferência por Python, Java e C/C++.</li>
+          <li>🧠 Atualmente, as áreas que mais me fascinam são a Engenharia de Aplicações e Criptografia.</li>
           <li>🎨 Entusiasta de design e edição de imagem/vídeo nos tempos livres.</li>
           <li>🌳 Fora do teclado, gosto de caminhadas e atividades ao ar livre.</li>
         </ul>
